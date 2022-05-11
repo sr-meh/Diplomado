@@ -1,20 +1,22 @@
-# Diplomado
+## Descripcion
 
 Este repositorio es para mantener el track de las distintas sesiones...
 
-Cada sesion tendra su propia carpeta llamada: `sesion_[NUMERO DE SESSION]`
+### Estructura
 
-Dentro de ella habra un readme en Marldpwn (.md) que tena una estructura minima de:
+- Cada sesion tendra su propia carpeta llamada: `sesion_[NUMERO DE SESSION]`
 
-```
-# Sesion #
-> Fecha de Sesion
+- Dentro de ella habra un readme en Marldpwn (.md) que tena una estructura minima de:
 
-## Descripcion
+    ```
+    # Sesion #
+    > Fecha de Sesion
 
-## Notas
+    ## Descripcion
 
-## Tarea
-```
+    ## Notas
 
-Ademas de cada archivo que se realice.
+    ## Tarea
+    ``` 
+
+- Ademas de cada archivo que se realice.
