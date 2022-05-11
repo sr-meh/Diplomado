@@ -11,9 +11,7 @@ La clase se trato en general de bla bla bla bla
 
 ## Notes
 
-- el maestro esta loco
-- todo estuvo bien chido
-- no me gusto que me hicieran bullying
+
 
 ## Homework
 
