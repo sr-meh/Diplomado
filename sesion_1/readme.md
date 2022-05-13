@@ -3,11 +3,11 @@
 
 ## Description
 
-Pr Fulanito de Tal
+Los temas del dia de hoy fueron:
+- Presentacion del modulo.
+- Presentacion de los temas a trabajar durante el modulo.
 
-La clase se trato en general de bla bla bla bla
 
-![Grabacion](http:/....)
 
 ## Notes
 
@@ -15,4 +15,4 @@ La clase se trato en general de bla bla bla bla
 
 ## Homework
 
-- Terminar el programa de X...
+- Crear una carpeta en GitHub para almacenar las evidencias realizadas a lo largo del curso.
